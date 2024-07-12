@@ -1,1 +1,1 @@
-# Spotify-Regression
+The goal of the task is to create a machine learning algorithm that can forecast the popularity rating of a song. A song's popularity is an ongoing numeric value, making this issue a regression problem.
